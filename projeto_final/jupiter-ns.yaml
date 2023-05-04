@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: jupyter
+  annotations: 
+    desc: "Namespace for Jupyter Notebook application"
+    proj: "Final Project K8s Course"
+    owner: "Fabiano Pereira"
+    phone: 123-456-789
+    email: fabiano341@hotmail.com
+
